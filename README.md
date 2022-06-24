@@ -6,8 +6,8 @@
 
  Yearn for the nostalgiac Neos sounds? Try these!
 
- Message: neosdb:///6fa1be0327f0538ff63d477669d8523e6da2d09a2954671c78fd8a1d7e163ddc.wav
- Invite: neosdb:///3d7e352931b00ae3d13a0fa67ab9e41063bb54d5aa0f12ea646d3a459b9d1b14.wav
+ Message: neosdb:///6fa1be0327f0538ff63d477669d8523e6da2d09a2954671c78fd8a1d7e163ddc.wav <br>
+ Invite: neosdb:///3d7e352931b00ae3d13a0fa67ab9e41063bb54d5aa0f12ea646d3a459b9d1b14.wav <br>
  Credits recieved: neosdb:///10615266d3272c4623c1eac2be45b4f1df1b36d4ad86a8c054ae70fa3efd9647.wav
 
 
